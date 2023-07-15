@@ -1,11 +1,5 @@
 ## Bem-vindo(a) ao perfil do Joilson Neto. 😁
 
-<div>
-<img align="center" alt=Me-Programming height="180em" width="" src="./giphy (1).gif">
-  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
- <img align=center alt=cat height="180em" width="" src="./giphy.gif">
-</div>
-
  <div>
   <a href="https://github.com/JoilsonSampaioN">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoilsonSampaioN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
